@@ -10,16 +10,41 @@ Customization
 In addition to the custom silkscreens and borders that I added for this project, I also added some custom code in the firmware. The trail and sprite (Not finalized, i may draw a custom one soon) are both customized, though the art for the sprite is not mine (pulled it from the internet) and the actions the sprite takes is still the base code.
 
 3D Renders 
+
+
 <img width="371" height="521" alt="Screenshot_20261011_222631" src="https://github.com/user-attachments/assets/c5334da5-ac8a-4044-88a1-72a55c6b4b1a" />
 <img width="429" height="525" alt="Screenshot_20261011_222647" src="https://github.com/user-attachments/assets/82b83bff-ff69-4ff6-8a09-1d31019deb60" />
 
 
+
 Schematics
+
+
 <img width="1338" height="602" alt="Screenshot_20261011_222720" src="https://github.com/user-attachments/assets/9eef10f3-b08b-4254-ae9b-22c92da445c4" />
 
 
+
 PCB Layout
+
+
 <img width="442" height="655" alt="Screenshot_20261011_222706" src="https://github.com/user-attachments/assets/05772147-4687-4be4-90fc-69420195ba4f" />
+
+
 
 BOM
 
+Part	Quantity	Unit Price (USD)	Vendor	Link
+Cherry MX Key	2	$1.09	AliExpress	View Product
+Display	1	$1.09	AliExpress	View Product
+Resistor (10k)	2	$0.00	AliExpress	View Product
+ESP32	1	$2.65	AliExpress	View Product
+DH11	1	$1.57	AliExpress	View Product
+Slide Switch	1	$2.39	AliExpress	View Product
+PCB	1	$10.95	JLCPCB	Get Quote
+Cost Summary
+Description	Cost (USD)
+Components subtotal	$8.70
+PCB	$10.95
+Total estimated cost	$19.65
+
+(BOM formatted by AI)
