@@ -33,18 +33,14 @@ PCB Layout
 
 BOM
 
-Part	Quantity	Unit Price (USD)	Vendor	Link
-Cherry MX Key	2	$1.09	AliExpress	View Product
-Display	1	$1.09	AliExpress	View Product
-Resistor (10k)	2	$0.00	AliExpress	View Product
-ESP32	1	$2.65	AliExpress	View Product
-DH11	1	$1.57	AliExpress	View Product
-Slide Switch	1	$2.39	AliExpress	View Product
-PCB	1	$10.95	JLCPCB	Get Quote
-Cost Summary
-Description	Cost (USD)
-Components subtotal	$8.70
-PCB	$10.95
-Total estimated cost	$19.65
+| Part | Quantity | Unit Price (USD) | Vendor | Link |
+|---|---:|---:|---|---|
+| Cherry MX Key | 2 | $1.09 | AliExpress | [View Product](https://www.aliexpress.us/item/3256806626884956.html) |
+| Display | 1 | $1.09 | AliExpress | [View Product](https://www.aliexpress.us/item/3256805954920554.html) |
+| Resistor (10k) | 2 | $0.00 | AliExpress | [View Product](https://www.aliexpress.us/item/3256811723963477.html) |
+| ESP32 | 1 | $2.65 | AliExpress | [View Product](https://www.aliexpress.us/item/3256809464129897.html) |
+| DH11 | 1 | $1.57 | AliExpress | [View Product](https://www.aliexpress.us/item/3256807449697831.html) |
+| Slide Switch | 1 | $2.39 | AliExpress | [View Product](https://www.aliexpress.us/item/3256808053858073.html) |
+| PCB | 1 | $10.95 | JLCPCB | [Get Quote](https://cart.jlcpcb.com/quote/gerberviewThree/?qs=1fd10fe2350848d4ab924f033e7ffb15_1_0_1_0_0.html) |
 
 (BOM formatted by AI)
